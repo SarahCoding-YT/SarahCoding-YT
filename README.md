@@ -8,4 +8,4 @@ On this page, you wll find all my coding projects that I share on my YouTube cha
 What I use
 - HTML5
 - CSS3
--JavaScript
+- JavaScript
